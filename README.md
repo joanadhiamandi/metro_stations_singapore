@@ -40,7 +40,7 @@ python main.py
 1. Shift + Right Click on the directory you want to 
 save the project.
 2. Select "Open command window in here".
-3. git clone (https://github.com/joanadhiamandi/singapore_metro.git )
+3. git clone (https://github.com/joanadhiamandi/metro_stations_singapore.git )
 4. cd singapore_metro
 </pre>
 
